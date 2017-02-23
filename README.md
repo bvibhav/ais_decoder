@@ -6,4 +6,5 @@ You can download a sample file from http://www.aishub.net/nmea-sample.php
 
 # To run
 fileAIS = fopen('fileName','r');
+
 AIS_reports = AIS_decodeFile(fileAIS);
